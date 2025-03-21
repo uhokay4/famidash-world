@@ -2,8 +2,8 @@ stereomadness_song_number = song_stereo_madness
 stereomadness_game_mode   = $00
 stereomadness_speed       = $00
 stereomadness_no_parallax = 0
-stereomadness_bg_color    = $12
-stereomadness_grnd_color  = $02
+stereomadness_bg_color    = $0D
+stereomadness_grnd_color  = $04
 
 backontrack_song_number = song_back_on_track
 backontrack_game_mode   = $00
